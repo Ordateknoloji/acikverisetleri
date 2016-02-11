@@ -1,0 +1,3 @@
+The average length of stay in hospitals (ALOS) is often used as an indicator of efficiency. All other things being equal, a shorter stay will reduce the cost per discharge and shift care from inpatient to less expensive post-acute settings. The ALOS refers to the average number of days that patients spend in hospital. It is generally measured by dividing the total number of days stayed by all inpatients during a year by the number of admissions or discharges. Day cases are excluded. The indicator is presented both for all acute care cases and for childbirth without complications.
+OECD (2016), Length of hospital stay (indicator). doi: 10.1787/8dda6b7a-en (Accessed on 11 February 2016)
+https://data.oecd.org/healthcare/length-of-hospital-stay.htm

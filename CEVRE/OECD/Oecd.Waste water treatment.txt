@@ -1,0 +1,3 @@
+This indicator presents sewage treatment connection rates, i.e. the percentage of the population connected to a wastewater treatment plant. “Connected” means actually connected to a wastewater treatment plant through a public sewage network. It does not take into account independent private facilities, used where public systems are not economic.This indicator is measured in percentage.
+OECD (2016), Waste water treatment (indicator). doi: 10.1787/ef27a39d-en (Accessed on 11 February 2016)
+https://data.oecd.org/water/waste-water-treatment.htm

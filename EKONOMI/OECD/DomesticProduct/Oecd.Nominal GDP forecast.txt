@@ -1,0 +1,3 @@
+Nominal gross domestic product (GDP) is GDP given in current prices, without adjustment for inflation. Current price estimates of GDP are obtained by expressing values of all goods and services produced in the current reporting period. Forecast is based on an assessment of the economic climate in individual countries and the world economy, using a combination of model-based analyses and expert judgement. This indicator is measured in growth rates compared to previous year.
+OECD (2016), Nominal GDP forecast (indicator). doi: 10.1787/dad11be4-en (Accessed on 11 February 2016)
+https://data.oecd.org/gdp/nominal-gdp-forecast.htm

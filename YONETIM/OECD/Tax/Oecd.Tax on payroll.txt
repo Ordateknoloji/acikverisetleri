@@ -1,0 +1,3 @@
+Tax on payroll is defined as taxes paid by employers, employees or the self-employed, either as a proportion of payroll or as a fixed amount per person, and that do not confer entitlement to social benefits. Examples of such taxes include: the United Kingdom national insurance surcharge (introduced in 1977), the Swedish payroll tax (1969-79), and the Austrian Contribution to the Family Burden Equalisation Fund and Community Tax. This indicator relates to government as a whole (all government levels) and is measured in percentage both of GDP and of total taxation.
+OECD (2016), Tax on payroll (indicator). doi: 10.1787/2787e067-en (Accessed on 11 February 2016)
+https://data.oecd.org/tax/tax-on-payroll.htm

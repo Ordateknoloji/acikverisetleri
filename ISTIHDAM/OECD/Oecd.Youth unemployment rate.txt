@@ -1,0 +1,3 @@
+The youth unemployment rate is the number of unemployed 15-24 year-olds expressed as a percentage of the youth labour force. Unemployed people are those who report that they are without work, that they are available for work and that they have taken active steps to find work in the last four weeks.
+OECD (2016), Youth unemployment rate (indicator). doi: 10.1787/c3634df7-en (Accessed on 11 February 2016)
+https://data.oecd.org/unemp/youth-unemployment-rate.htm

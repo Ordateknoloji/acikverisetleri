@@ -1,0 +1,3 @@
+This indicator presents the number of machines used for treatment with x-rays or radionuclide. Radiotherapy equipment include linear accelerators, Cobalt-60 units, Caesium-137 therapy units, low to orthovoltage x-ray units, high dose and low dose rate brachytherapy units and conventional brachytherapy units. The indicator is presented as a total and broken down between hospitals (primarily inpatient facilities) and ambulatory care providers (primarily outpatient facilities). It is measured per 1 000 000 inhabitants.
+OECD (2016), Radiotherapy equipment (indicator). doi: 10.1787/47a5492f-en (Accessed on 11 February 2016)
+https://data.oecd.org/healtheqt/radiotherapy-equipment.htm

@@ -1,0 +1,3 @@
+Alcohol consumption is defined as annual sales of pure alcohol in litres per person aged 15 years and older. Alcohol use is associated with numerous harmful health and social consequences, including an increased risk of a range of cancers, stroke and liver cirrhosis. Alcohol also contributes to death and disability through accidents and injuries, assault, violence, homicide and suicide. This indicator is measured in litres per capita (people aged 15 years and older).
+OECD (2016), Alcohol consumption (indicator). doi: 10.1787/e6895909-en (Accessed on 11 February 2016)
+https://data.oecd.org/healthrisk/alcohol-consumption.htm

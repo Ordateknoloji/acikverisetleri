@@ -1,0 +1,3 @@
+The gender wage gap is unadjusted and is defined as the difference between median earnings of men and women relative to median earnings of men. Data refer to full-time employees.
+OECD (2016), Gender wage gap (indicator). doi: 10.1787/7cee77aa-en (Accessed on 11 February 2016)
+https://data.oecd.org/earnwage/gender-wage-gap.htm

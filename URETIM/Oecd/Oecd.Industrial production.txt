@@ -1,0 +1,3 @@
+Industrial production refers to the output of industrial establishments and covers sectors such as mining, manufacturing and public utilities (electricity, gas and water). This indicator is measured in an index based on a reference period that expresses change in the volume of production output.
+OECD (2016), Industrial production (indicator). doi: 10.1787/39121c55-en (Accessed on 11 February 2016)
+https://data.oecd.org/industry/industrial-production.htm

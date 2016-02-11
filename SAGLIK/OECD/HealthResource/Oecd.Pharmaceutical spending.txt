@@ -1,0 +1,3 @@
+Pharmaceutical spending is defined as expenditures on prescriptions medicines and over-the-counter products. In some countries, the data also include other medical non-durable goods (adding approximately 5% to the expenditure). The spending also includes pharmacists' remuneration when the latter is separate from the price of medicines. Pharmaceuticals consumed in hospitals are excluded. Final expenditure on pharmaceuticals include wholesale and retail margins and value-added tax. This indicator is measured in percentage of total expenditure on health, in USD per capita (using PPP) and in percentage of GDP.
+OECD (2016), Pharmaceutical spending (indicator). doi: 10.1787/998febf6-en (Accessed on 11 February 2016)
+https://data.oecd.org/healthres/pharmaceutical-spending.htm

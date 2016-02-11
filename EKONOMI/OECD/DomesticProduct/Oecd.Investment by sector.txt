@@ -1,0 +1,3 @@
+Investment (GFCF) by sector includes household, corporate and general government. This indicator is measured as percentage of total gross fixed capital formation.
+OECD (2016), Investment by sector (indicator). doi: 10.1787/abd72f11-en (Accessed on 11 February 2016)
+https://data.oecd.org/gdp/investment-by-sector.htm

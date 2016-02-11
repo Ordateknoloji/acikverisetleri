@@ -1,0 +1,3 @@
+Passenger car registrations refer to the number of newly (first-time) registered passenger cars (private cars) or vehicles (commercial cars) registered to the authorities. Data are sourced via the European Automobile Manufacturer's Association (ACEA) and measured in number of units. Data are presented here in terms of the growth over previous period.
+OECD (2016), Passenger car registrations (indicator). doi: 10.1787/c58fcf22-en (Accessed on 11 February 2016)
+https://data.oecd.org/transport/passenger-car-registrations.htm

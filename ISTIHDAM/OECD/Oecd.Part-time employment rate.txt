@@ -1,0 +1,3 @@
+Part-time employment is defined as people in employment (whether employees or self-employed) who usually work less than 30 hours per week in their main job. Employed people are those aged 15 and over who report that they have worked in gainful employment for at least one hour in the previous week or who had a job but were absent from work during the reference week while having a formal job attachment. This indicator shows the proportion of persons employed part-time among all employed persons and is also called incidence of part-time employment.
+OECD (2016), Part-time employment rate (indicator). doi: 10.1787/f2ad596c-en (Accessed on 11 February 2016)
+https://data.oecd.org/emp/part-time-employment-rate.htm

@@ -1,0 +1,3 @@
+Foreign Direct Investment (FDI) stocks measure the total level of direct investment at a given point in time, usually the end of a quarter or of a year. The outward FDI stock is the value of the resident investors' equity in and net loans to enterprises in foreign economies. The inward FDI stock is the value of foreign investors' equity in and net loans to enterprises resident in the reporting economy. FDI stocks are measured in USD and as a share of GDP. FDI creates stable and long-lasting links between economies.
+OECD (2016), FDI stocks (indicator). doi: 10.1787/80eca1f9-en (Accessed on 11 February 2016)
+https://data.oecd.org/fdi/fdi-stocks.htm

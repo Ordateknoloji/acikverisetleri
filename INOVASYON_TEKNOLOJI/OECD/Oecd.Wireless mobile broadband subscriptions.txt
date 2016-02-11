@@ -1,0 +1,3 @@
+Wireless mobile broadband subscriptions are mobile subscriptions that advertise data speeds of 256 kbit/s or greater. The subscription must allow access to the Internet via HTTP and must have been used to make a data connection via Internet Protocol (IP) in the previous three months. Standard SMS and MMS messaging do not count as an active Internet data connection even if they are delivered via IP. This indicator is measured in number of subscriptions per 100 inhabitants.
+OECD (2016), Wireless mobile broadband subscriptions (indicator). doi: 10.1787/1277ddc6-en (Accessed on 11 February 2016)
+https://data.oecd.org/broadband/wireless-mobile-broadband-subscriptions.htm

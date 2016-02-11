@@ -1,0 +1,3 @@
+Comparative price level indices are the ratios of purchasing power parities to market exchange rates. At the level of GDP, comparative price levels provide a measure of the differences in the general price levels of countries. This indicator is measured as an index.
+OECD (2016), Price level indices (indicator). doi: 10.1787/c0266784-en (Accessed on 11 February 2016)
+https://data.oecd.org/price/price-level-indices.htm

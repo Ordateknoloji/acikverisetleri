@@ -1,0 +1,3 @@
+This indicator shows the rate of caesarean sections per 1 000 live births. While caesarean delivery is required in some circumstances, the benefits of caesarean versus vaginal delivery for normal uncomplicated deliveries continue to be debated. Caesarean delivery continues to result in increased maternal mortality, maternal and infant morbidity, and increased complications for subsequent deliveries, as well as increased financial costs, raising questions about the appropriateness of some caesarean delivery that may not be medically required. This indicator is measured per 1 000 live births.
+OECD (2016), Caesarean sections (indicator). doi: 10.1787/adc3c39f-en (Accessed on 11 February 2016)
+https://data.oecd.org/healthcare/caesarean-sections.htm

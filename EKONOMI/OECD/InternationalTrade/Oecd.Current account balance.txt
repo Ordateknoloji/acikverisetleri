@@ -1,0 +1,3 @@
+The current account balance of payments is a record of a country's international transactions with the rest of the world. The current account includes all the transactions (other than those in financial items) that involve economic values and occur between resident and non-resident entities. Also covered are offsets to current economic values provided or acquired without a quid pro quo. This indicator is measured in million USD and percentage of GDP.
+OECD (2016), Current account balance (indicator). doi: 10.1787/b2f74f3a-en (Accessed on 11 February 2016)
+https://data.oecd.org/trade/current-account-balance.htm

@@ -1,0 +1,3 @@
+Trade in goods includes all goods which add to, or subtract from, the stock of material resources of a country by entering its economic territory (imports) or leaving it (exports). This indicator is measured in million USD and percentage of GDP for exports, imports and net trade. Goods are physical, produced items over which ownership rights can be established and whose economic ownership can be passed from one institutional unit to another by engaging in transactions. Goods being transported through a country or temporarily admitted or withdrawn (except for goods for inward or outward processing) are not included.
+OECD (2016), Trade in goods (indicator). doi: 10.1787/1ea6b5ed-en (Accessed on 11 February 2016)
+https://data.oecd.org/trade/trade-in-goods.htm

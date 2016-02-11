@@ -1,0 +1,3 @@
+Container transport refers to the transportation of goods in standardized re-sealable transportation boxes by rail and sea. Data are expressed in tons and twenty-foot equivalent units (TEU). TEU is based on a container of 20 foot length (6.10 m) providing a standardised measure of containers of various capacities and for describing the capacity of container ships or terminals. One 20 foot container equals 1 TEU.
+OECD (2016), Container transport (indicator). doi: 10.1787/26de63f3-en (Accessed on 10 February 2016)
+URL:https://data.oecd.org/transport/container-transport.htm

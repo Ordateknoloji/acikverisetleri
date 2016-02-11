@@ -1,0 +1,3 @@
+Net household saving is defined as the subtraction of household consumption expenditure from household disposable income, plus the change in net equity of households in pension funds. Household saving is the main domestic source of funds to finance capital investment, a major impetus for long-term economic growth. This indicator is measured as a percentage of household disposable income. Data are under System of National Accounts (SNA 1993) for all countries except for Australia and United States (SNA 2008).
+OECD (2016), Household savings (indicator). doi: 10.1787/cfc6f499-en (Accessed on 11 February 2016)
+https://data.oecd.org/hha/household-savings.htm

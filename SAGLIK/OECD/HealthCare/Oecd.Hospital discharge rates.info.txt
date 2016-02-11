@@ -1,0 +1,3 @@
+Hospital discharge rates measure the number of patients who leave a hospital after receiving care. Hospital discharge is defined as the release of a patient who has stayed at least one night in hospital. It includes deaths in hospital following inpatient care. Same-day discharges are usually excluded. This indicator is measured per 100 000 inhabitants.
+OECD (2016), Hospital discharge rates (indicator). doi: 10.1787/5880c955-en (Accessed on 11 February 2016)
+https://data.oecd.org/healthcare/hospital-discharge-rates.htm

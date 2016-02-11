@@ -1,0 +1,3 @@
+Municipal waste is defined as waste collected and treated by or for municipalities. It covers waste from households, including bulky waste, similar waste from commerce and trade, office buildings, institutions and small businesses, as well as yard and garden waste, street sweepings, the contents of litter containers, and market cleansing waste if managed as household waste. The definition excludes waste from municipal sewage networks and treatment, as well as waste from construction and demolition activities. This indicator is measured in thousand tonnes and in kilograms per capita.
+OECD (2016), Municipal waste (indicator). doi: 10.1787/89d5679a-en (Accessed on 11 February 2016)
+https://data.oecd.org/waste/municipal-waste.htm

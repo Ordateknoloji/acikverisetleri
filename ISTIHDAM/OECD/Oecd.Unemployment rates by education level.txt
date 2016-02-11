@@ -1,0 +1,3 @@
+This indicator shows the unemployment rates of people according to their education levels: below upper secondary, upper secondary non-tertiary, or tertiary. The unemployed are defined as people without work but actively seeking employment and currently available to start work. This indicator measures the percentage of unemployed 25-64 year-olds among 25-64 year-olds in the labour force.
+OECD (2016), Unemployment rates by education level (indicator). doi: 10.1787/6183d527-en (Accessed on 11 February 2016)
+https://data.oecd.org/unemp/unemployment-rates-by-education-level.htm

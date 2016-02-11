@@ -1,0 +1,3 @@
+Terms of trade are defined as the ratio between the index of export prices and the index of import prices.
+OECD (2016), Terms of trade (indicator). doi: 10.1787/7722246c-en (Accessed on 11 February 2016)
+https://data.oecd.org/trade/terms-of-trade.htm

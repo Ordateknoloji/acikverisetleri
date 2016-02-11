@@ -1,0 +1,3 @@
+The composite leading indicator (CLI) is designed to provide early signals of turning points in business cycles showing fluctuation of the economic activity around its long term potential level. CLIs show short-term economic movements in qualitative rather than quantitative terms.
+OECD (2016), Composite leading indicator (CLI) (indicator). doi: 10.1787/4a174487-en (Accessed on 11 February 2016)
+https://data.oecd.org/leadind/composite-leading-indicator-cli.htm

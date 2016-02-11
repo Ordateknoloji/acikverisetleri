@@ -1,0 +1,3 @@
+Private flows are defined as financial flows at market terms financed out of private sector resources (changes in holdings of private, long-term assets held by residents of the reporting country) and private grants (grants by non-government organisations, net of subsidies received from the official sector). Private capital flows can be divided into: foreign direct investment; portfolio equity (the buying and selling of stocks and shares); remittances sent home by migrants; and private sector borrowing. This indicator is measured in million USD constant prices, using 2012 base year.
+OECD (2016), Private flows (indicator). doi: 10.1787/4d31a9d6-en (Accessed on 11 February 2016)
+https://data.oecd.org/drf/private-flows.htm

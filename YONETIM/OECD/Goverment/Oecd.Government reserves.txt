@@ -1,0 +1,3 @@
+Reserve assets are assets that are readily available to and controlled by monetary authorities for direct financing of payment imbalances. Reserve assets may be monetary gold, special drawing rights (SDRs), a reserve position in the International Monetary Fund (IMF), foreign exchange assets consisting of currency and deposits and securities, and other claims. This indicator is measured in SDRs. The IMF determines the value of SDRs daily by totalling the USD value (based on market exchange rates) of a weighted basket of currencies. The basket and weights are subject to periodic revision.
+OECD (2016), Government reserves (indicator). doi: 10.1787/1edb11ee-en (Accessed on 11 February 2016)
+https://data.oecd.org/gga/government-reserves.htm

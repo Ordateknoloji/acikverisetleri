@@ -1,0 +1,3 @@
+ICT investment is defined as the acquisition of equipment and computer software that is used in production for more than one year. ICT has three components: information technology equipment (computers and related hardware); communications equipment; and software. Software includes acquisition of pre-packaged software, customised software and software developed in-house. This indicator is measured as a percentage of total non-residential gross fixed capital formation.
+OECD (2016), ICT investment (indicator). doi: 10.1787/b23ec1da-en (Accessed on 11 February 2016)
+https://data.oecd.org/ict/ict-investment.htm

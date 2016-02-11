@@ -1,0 +1,3 @@
+Internet access is defined as the percentage of households who reported that they had access to the Internet. In almost all cases this access is via a personal computer either using a dial-up, ADSL or cable broadband access. This indicator is measured in percentage of all households.
+OECD (2016), Internet access (indicator). doi: 10.1787/69c2b997-en (Accessed on 11 February 2016)
+https://data.oecd.org/ict/internet-access.htm

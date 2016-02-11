@@ -1,0 +1,3 @@
+Fixed wired broadband subscriptions include the total number of subscriptions to the following broadband technologies with download speeds of 256 kbit/s or greater: DSL, cable modem, fibre-to-the-home and other fixed technologies (such as broadband over power lines and leased lines). This indicator is measured in number of subscriptions per 100 inhabitants and in total number of subscriptions.
+OECD (2016), Fixed broadband subscriptions (indicator). doi: 10.1787/902e48ee-en (Accessed on 11 February 2016)
+https://data.oecd.org/broadband/fixed-broadband-subscriptions.htm

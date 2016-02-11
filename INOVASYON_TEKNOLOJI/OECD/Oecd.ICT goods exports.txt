@@ -1,0 +1,3 @@
+ICT goods exports is based on the World Customs Organisation's Harmonised System (HS) which defines ICT products (including ICT goods). ICT goods must either be intended to fulfill the function of information processing and communication by electronic means, including transmission and display, or use electronic processing to detect, measure and/or record physical phenomena, or to control a physical process. This indicator is measured in million USD.
+OECD (2016), ICT goods exports (indicator). doi: 10.1787/b4d99334-en (Accessed on 11 February 2016)
+https://data.oecd.org/ict/ict-goods-exports.htm

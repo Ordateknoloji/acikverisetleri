@@ -1,0 +1,3 @@
+Saving is the difference between disposable income plus the change in net equity of households in pension funds and final consumption expenditure. Saving therefore reflects the residual income used to acquire financial and non-financial assets. It’s important to note that disposable income does not include any capital gains or indeed losses, and so neither does saving. Net saving is equal to saving less depreciation. This indicator is measured as percentage of gross domestic product (GDP).
+OECD (2016), Saving rate (indicator). doi: 10.1787/ff2e64d4-en (Accessed on 11 February 2016)
+https://data.oecd.org/natincome/saving-rate.htm

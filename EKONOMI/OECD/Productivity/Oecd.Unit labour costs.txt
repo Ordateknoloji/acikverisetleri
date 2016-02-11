@@ -1,0 +1,3 @@
+Unit labour costs are often viewed as a broad measure of (international) price competitiveness. They are defined as the average cost of labour per unit of output produced. They can be expressed as the ratio of total labour compensation per hour worked to output per hour worked (labour productivity). This indicator is measured in percentage changes and indices.
+OECD (2016), Unit labour costs (indicator). doi: 10.1787/37d9d925-en (Accessed on 11 February 2016)
+https://data.oecd.org/lprdty/unit-labour-costs.htm

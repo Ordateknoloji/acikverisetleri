@@ -1,0 +1,3 @@
+Labour productivity is defined as real gross domestic product (GDP) per hour worked. This captures the use of labour inputs better than just output per employee, with labour input defined as total hours worked by all persons involved. The data are derived as average hours worked multiplied by the corresponding and consistent measure of employment for each particular country. Forecast is based on an assessment of the economic climate in individual countries and the world economy, using a combination of model-based analyses and expert judgement. This indicator is measured as an index with 2010=1.
+OECD (2016), Labour productivity forecast (indicator). doi: 10.1787/cb12b189-en (Accessed on 11 February 2016)
+https://data.oecd.org/lprdty/labour-productivity-forecast.htm

@@ -1,0 +1,4 @@
+Freight transport refers to the total movement of goods using inland transport on a given network. Data are expressed in million tonne-kilometres, which represents the transport of one tonne over one kilometre. Components for road and rail are available.
+
+OECD (2016), Freight transport (indicator). doi: 10.1787/708eda32-en (Accessed on 10 February 2016)
+URL:https://data.oecd.org/transport/freight-transport.htm

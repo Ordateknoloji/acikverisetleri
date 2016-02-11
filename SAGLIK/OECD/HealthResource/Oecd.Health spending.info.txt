@@ -1,0 +1,3 @@
+Health spending is defined as the final consumption of health goods and services. It includes spending by both public and private sources (including households) on curative, rehabilitative and long-term care as well as medical goods such as pharmaceuticals. It also covers spending on public health and prevention programmes, and on administration. This indicator is presented as a total and per financing agent (public, private and out-of-pocket expenditure) and is measured in percentage of GDP, in percentage of total expenditure on health, and in USD per capita (using PPP).
+OECD (2016), Health spending (indicator). doi: 10.1787/8643de7e-en (Accessed on 11 February 2016)
+https://data.oecd.org/healthres/health-spending.htm

@@ -1,0 +1,3 @@
+This indicator shows the employment rates of people according to their education levels: below upper secondary, upper secondary non-tertiary, or tertiary. The employment rate refers to the number of persons in employment as a percentage of the population of working age. The employed are defined as those who work for pay or profit for at least one hour a week, or who have a job but are temporarily not at work due to illness, leave or industrial action. This indicator measures the percentage of employed 25-64 year-olds among all 25-64 year-olds.
+OECD (2016), Employment by education level (indicator). doi: 10.1787/26f676c7-en (Accessed on 11 February 2016)
+https://data.oecd.org/emp/employment-by-education-level.htm

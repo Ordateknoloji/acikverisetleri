@@ -1,0 +1,3 @@
+Daily smokers are defined as the population aged 15 years and over who are reporting to smoke every day. Smoking is a major risk factor for at least two of the leading causes of premature mortality - circulatory disease and cancer, increasing the risk of heart attack, stroke, lung cancer, and cancers of the larynx and mouth. In addition, smoking is an important contributory factor for respiratory diseases. This indicator is presented as a total and per gender and is measured as a percentage of the population aged 15 years and over.
+OECD (2016), Daily smokers (indicator). doi: 10.1787/1ff488c2-en (Accessed on 11 February 2016)
+https://data.oecd.org/healthrisk/daily-smokers.htm

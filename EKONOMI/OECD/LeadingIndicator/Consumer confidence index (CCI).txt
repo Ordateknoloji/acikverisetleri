@@ -1,0 +1,3 @@
+The consumer confidence index (CCI) is based on households' plans for major purchases and their economic situation, both currently and their expectations for the immediate future. Opinions compared to a “normal” state are collected and the difference between positive and negative answers provides a qualitative index on economic conditions.
+OECD (2016), Consumer confidence index (CCI) (indicator). doi: 10.1787/46434d78-en (Accessed on 11 February 2016)
+https://data.oecd.org/leadind/consumer-confidence-index-cci.htm

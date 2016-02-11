@@ -1,0 +1,3 @@
+Fish landings are defined as the catches of marine fish landed in foreign or domestics ports. Marine capture fisheries landings are subject to changes in market demand and prices as well as the need to rebuild stocks to maximum sustainable yield levels in order to achieve long-term sustainable use of marine resources. This indicator concerns national landings in domestic ports, national landings in foreign ports and foreign landings in domestic ports. It is measured in tonnes and USD.
+OECD (2016), Fish landings (indicator). doi: 10.1787/93a69a82-en (Accessed on 10 February 2016)
+URL:https://data.oecd.org/fish/fish-landings.htm

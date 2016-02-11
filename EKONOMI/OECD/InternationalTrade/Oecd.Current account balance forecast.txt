@@ -1,0 +1,3 @@
+The current account balance forecast measures the projected value of a country's net international transactions with the rest of the world. The current account includes all the transactions (other than those in financial items) that involve economic values and occur between resident and non-resident entities. Projections are based on an assessment of the economic climate in individual countries and the world economy, using a combination of model-based analyses and expert judgement. This indicator is measured in USD and as a percentage of GDP.
+OECD (2016), Current account balance forecast (indicator). doi: 10.1787/38d572e4-en (Accessed on 11 February 2016)
+https://data.oecd.org/trade/current-account-balance-forecast.htm

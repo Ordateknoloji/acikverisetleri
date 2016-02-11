@@ -1,0 +1,4 @@
+Producer protection is defined as the ratio between the average price received by producers (measured at the farm gate), including net payments per unit of current output, and the border price (measured at the farm gate). For instance, a coefficient of 1.10 suggests that farmers, overall, received prices that were 10% above international market levels. This indicator reflects the level of price distortions and is measured by the Producer Nominal Protection Coefficient expressed as the ratio of farm price to border reference price.
+
+OECD (2016), Producer protection (indicator). doi: 10.1787/f99067c0-en (Accessed on 10 February 2016)
+URL:https://data.oecd.org/agrpolicy/producer-protection.htm
