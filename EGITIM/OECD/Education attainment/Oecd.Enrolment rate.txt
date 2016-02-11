@@ -1,0 +1,3 @@
+Enrolment rates are expressed as net enrolment rates, which are calculated by dividing the number of students of a particular age group enrolled in all levels of education by the size of the population of that age group. Generally, figures are based on head counts and do not distinguish between full-time and part-time study. In some OECD countries, part-time education is only partially covered in the reported data.
+OECD (2016), Enrolment rate (indicator). doi: 10.1787/1d7e7216-en (Accessed on 11 February 2016)
+https://data.oecd.org/eduatt/enrolment-rate.htm

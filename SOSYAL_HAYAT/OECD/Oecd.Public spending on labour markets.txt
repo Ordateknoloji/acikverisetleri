@@ -1,0 +1,9 @@
+Public spending on labour market programmes includes public employment services (PES), training, hiring subsidies and direct job creations in the public sector, as well as unemployment benefits.
+PES includes placement and related services, benefit administration and other expenditure.
+Training includes institutional, workplace and alternate/integrated training, as well as special support for apprenticeship.
+Employment incentives includes recruitment incentives, employment maintenance incentives, and job rotation and job sharing.
+Out-of-work income maintenance and support includes full unemployment benefits, unemployment insurance, unemployment assistance, partial unemployment benefits, part-time unemployment benefits, redundancy and bankruptcy compensation.
+Data are based mainly on information about individual labour market programmes which appears in state budgets, and the accounts and annual reports of bodies which implement the programmes.
+This indicator is measured as a percentage of GDP.
+OECD (2016), Public spending on labour markets (indicator). doi: 10.1787/911b8753-en (Accessed on 11 February 2016)
+https://data.oecd.org/socialexp/public-spending-on-labour-markets.htm

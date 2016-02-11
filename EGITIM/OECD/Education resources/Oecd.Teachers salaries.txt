@@ -1,0 +1,3 @@
+Teachers' salaries are the average gross salaries of educational personnel according to official pay scales, before the deduction of taxes, including the employee's contributions for retirement or health care plans, and other contributions or premiums for social insurance or other purposes, but less the employer’s contribution to social security and pension. Salaries are shown in USD covering primary and secondary teachers with minimum qualification at the beginning of their career, after 10 and 15 years, and at the top of the scale. Trends in salaries are shown as an index with base year 2005.
+OECD (2016), Teachers' salaries (indicator). doi: 10.1787/f689fb91-en (Accessed on 11 February 2016)
+https://data.oecd.org/eduresource/teachers-salaries.htm

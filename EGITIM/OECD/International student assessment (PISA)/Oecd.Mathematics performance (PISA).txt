@@ -1,0 +1,3 @@
+Mathematical performance, for PISA, measures the mathematical literacy of a 15 year-old to formulate, employ and interpret mathematics in a variety of contexts to describe, predict and explain phenomena, recognising the role that mathematics plays in the world. The mean score is the measure. A mathematically literate student recognises the role that mathematics plays in the world in order to make well-founded judgments and decisions needed by constructive, engaged and reflective citizens.
+OECD (2016), Mathematics performance (PISA) (indicator). doi: 10.1787/04711c74-en (Accessed on 11 February 2016)
+https://data.oecd.org/pisa/mathematics-performance-pisa.htm

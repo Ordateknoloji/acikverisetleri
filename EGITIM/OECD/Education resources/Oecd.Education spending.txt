@@ -1,0 +1,3 @@
+Education spending covers expenditure on schools, universities and other public and private educational institutions. Spending includes instruction and ancillary services for students and families provided through educational institutions. Spending is shown in USD per student and as a percentage of GDP.
+OECD (2016), Education spending (indicator). doi: 10.1787/ca274bac-en (Accessed on 11 February 2016)
+https://data.oecd.org/eduresource/education-spending.htm

@@ -1,0 +1,3 @@
+The poverty rate is the ratio of the number of people (in a given age group) whose income falls below the poverty line; taken as half the median household income of the total population. However, two countries with the same poverty rates may differ in terms of the relative income-level of the poor.
+OECD (2016), Poverty rate (indicator). doi: 10.1787/0fe1315d-en (Accessed on 11 February 2016)
+https://data.oecd.org/inequality/poverty-rate.htm

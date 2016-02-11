@@ -1,0 +1,3 @@
+The foreign population consists of people who still have the nationality of their home country. It may include people born in the host country. The difference across countries between the size of the foreign-born population and that of the foreign population depends on the rules governing the acquisition of citizenship in each country. This indicator is measured as a percentage of population.
+OECD (2016), Foreign population (indicator). doi: 10.1787/16a914e3-en (Accessed on 11 February 2016)
+https://data.oecd.org/migration/foreign-population.htm

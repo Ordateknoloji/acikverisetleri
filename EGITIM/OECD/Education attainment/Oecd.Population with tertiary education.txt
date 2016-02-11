@@ -1,0 +1,3 @@
+Population with tertiary education is defined as those having completed the highest level of education, by age group. This includes both theoretical programmes leading to advanced research or high skill professions such as medicine and more vocational programmes leading to the labour market. The measure is percentage of same age population. As globalisation and technology continue to re-shape the needs of labour markets worldwide, the demand for individuals with a broader knowledge base and more specialised skills continues to rise.
+OECD (2016), Population with tertiary education (indicator). doi: 10.1787/0b8f90e9-en (Accessed on 11 February 2016)
+https://data.oecd.org/eduatt/population-with-tertiary-education.htm

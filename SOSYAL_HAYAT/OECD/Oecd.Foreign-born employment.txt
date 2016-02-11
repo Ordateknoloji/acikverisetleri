@@ -1,0 +1,2 @@
+The foreign-born employment rate is calculated as the share of employed foreign-born persons aged 15-64 in the total foreign-born population (active and inactive persons) of that same age. Employed people are those who worked at least one hour or who had a job but were absent from work during the reference week. This indicator is measured in percentage of foreign-born population of the same age by gender.OECD (2016), Foreign-born employment (indicator). doi: 10.1787/05428726-en (Accessed on 11 February 2016)
+https://data.oecd.org/migration/foreign-born-employment.htm

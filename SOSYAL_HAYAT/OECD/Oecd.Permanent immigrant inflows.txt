@@ -1,0 +1,3 @@
+Permanent immigrant inflows cover regulated movements of foreigners considered to be settling in the country from the perspective of the destination country. They cover regulated movements of foreigners as well as free movement migration. The data presented are the result of a standardisation process that allows for cross-country comparisons. This indicator is measured by numbers of permanent inflows.
+OECD (2016), Permanent immigrant inflows (indicator). doi: 10.1787/304546b6-en (Accessed on 11 February 2016)
+https://data.oecd.org/migration/permanent-immigrant-inflows.htm

@@ -1,0 +1,3 @@
+The working age population is defined as those aged 15 to 64. The basic indicator for employment is the proportion of the working age population aged 15-64 who are employed. The age dependency ratio is the ratio of dependents (people younger than 15 or older than 64) to the working-age population. This indicator is measured as a percentage of population.
+OECD (2016), Working age population (indicator). doi: 10.1787/d339918b-en (Accessed on 11 February 2016)
+https://data.oecd.org/pop/working-age-population.htm

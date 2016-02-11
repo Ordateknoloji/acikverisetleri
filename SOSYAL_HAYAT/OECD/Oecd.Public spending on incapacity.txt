@@ -1,0 +1,6 @@
+Public spending on incapacity refers to spending due to sickness, disability and occupational injury. It includes disability cash benefits that are comprised of cash payments on account of complete or partial inability to participate gainfully in the labour market due to disability. The disability may be congenital, or the result of an accident or illness during the victim’s lifetime. 
+It also includes spending on occupational injury and disease, which records all cash payments such as paid sick leave, special allowances and disability related payments such as pensions, if they are related to specific occupational injuries and diseases. Sickness cash benefits related to loss of earnings because of a temporary inability to work due to illness are also recorded. This indicator excludes paid leave related to sickness or injury of a dependent child which is recorded under family cash benefits. 
+Social expenditure on services for the disabled people encompasses services such as day care and rehabilitation services, home-help services and other benefits in kind.
+This indicator is measured in percentage of GDP.
+OECD (2016), Public spending on incapacity (indicator). doi: 10.1787/f35b71ed-en (Accessed on 11 February 2016)
+https://data.oecd.org/socialexp/public-spending-on-incapacity.htm

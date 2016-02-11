@@ -1,0 +1,3 @@
+National population distribution is defined as the share of inhabitants by types of regions in a given country. Population is unevenly distributed among regions within countries. Differences in climate and environmental conditions discourage settlement in some areas and encourage concentrated settlement around a few urban centres. This pattern is reinforced by the greater economic opportunities and wider availability of services that stem from urbanisation itself. This indicator is measured as a percentage of the national population.
+OECD (2016), National population distribution (indicator). doi: 10.1787/7314f74f-en (Accessed on 11 February 2016)
+https://data.oecd.org/popregion/national-population-distribution.htm
